@@ -140,6 +140,23 @@ var q = [
 	'How do you plan to scale your marketing efforts?',
 	'What’s your strategy for hiring top talent?',
 	'How will you maintain your company’s core values as you grow?',
+	'What are typical templates?',
+	'I\'m not sure what is the problem?',
+	'What is your burn rate?',
+	'How long can you go before funding?',
+	'Have you raised funding?',
+	'What will you do if we don’t fund you?',
+	'Would you relocate to Silicon Valley during YC?',
+	'Who is "the boss?"',
+	'What role will each founder have?',
+	'How do we know your team will stick together?',
+	'Will your team stick at this?',
+	'What else have you created together?',
+	'Are you open to changing your idea?',
+	'Tell us anything that went bad recently',
+	'Tell us about a tough problem you solved?',
+	'In what ways are you resourceful?',
+	'What’s the worst thing that has happened? What’s the biggest mistake you have made?',
 ];
 
 // Tips
